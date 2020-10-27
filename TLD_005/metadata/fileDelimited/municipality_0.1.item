@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_j5oHYBiHEeulBNzgK24UsA" name="municipality" dataPackage="_j5oHYRiHEeulBNzgK24UsA" Server="Localhost 127.0.0.1" FilePath="C:/Users/LENOVO/Documents/Documentación/c_municipality_202010241936.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_j5oHYRiHEeulBNzgK24UsA" name="default" dataManager="_j5oHYBiHEeulBNzgK24UsA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_j5oHYhiHEeulBNzgK24UsA" id="_TxqlUBiHEeulBNzgK24UsA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j5oHYxiHEeulBNzgK24UsA" label="state_code" length="34" talendType="id_String" key="true" nullable="false" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_yt7CIBiHEeulBNzgK24UsA" name="muni_code" label="muni_code" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_0FTr0BiHEeulBNzgK24UsA" name="name" label="name" talendType="id_String"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_1b6SYBiHEeulBNzgK24UsA" name="country_code" label="country_code" talendType="id_String"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
