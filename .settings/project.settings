@@ -67,7 +67,7 @@
         "show" : true,
         "field" : "DIRECTORY",
         "name" : "FILE_PATH",
-        "value" : "\"C:/TalendOpenStudio/TOS_DI-Win32-20200219_1130-V7.3.1/workspace/.metadata\"",
+        "value" : "\"C:/Users/LENOVO/Documents/Workspace/CHAP_2/.metadata\"",
         "contextMode" : false
       }, {
         "show" : true,
@@ -180,7 +180,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS",
-        "value" : "enc:system.encryption.key.v1:q4VeBrEyXIiAoJpB6ML0QLZrN6n7eVMmySZ83LHA",
+        "value" : "enc:system.encryption.key.v1:Y+IImQbn+Sq/uqZmlDZVcOq2AjQRtDVEzq+eOFRS",
         "contextMode" : false
       }, {
         "show" : true,
@@ -388,7 +388,7 @@
         "show" : true,
         "field" : "PASSWORD",
         "name" : "PASS_IMPLICIT_CONTEXT",
-        "value" : "enc:system.encryption.key.v1:2iRMxs6jCVyhmnP3Y9TtYymEseaM2Y3fvgI7Ttp5",
+        "value" : "enc:system.encryption.key.v1:hcs9SxFQsdayFWsIIy+5RsWkyFMI4Wm9RQIBLBzU",
         "contextMode" : false
       }, {
         "show" : true,
